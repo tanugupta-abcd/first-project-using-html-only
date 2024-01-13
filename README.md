@@ -1,3 +1,4 @@
 # first-project-using-html-only
-first git repository
-auther - Tanu Gupta
+first git repository ,
+<br>
+Auther - Tanu Gupta
